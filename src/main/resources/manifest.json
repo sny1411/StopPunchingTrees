@@ -1,22 +1,18 @@
 {
     "Group": "StopPunchingTrees",
     "Name": "StopPunchingTrees",
-    "Version": "1.0",
+    "Version": "${version}",
     "Description": "Prevents players from punching trees with bare hands.",
     "Authors": [
         {
-            "Name": "Matt\u00e9o Humez"
+            "Name": "Mattéo Humez"
         }
     ],
     "Website": "https://www.matteo-humez.fr",
-    "ServerVersion": "*",
-    "Dependencies": {
-        
-    },
-    "OptionalDependencies": {
-        
-    },
+    "ServerVersion": "${server_version}",
+    "Dependencies": {},
+    "OptionalDependencies": {},
     "DisabledByDefault": false,
     "Main": "fr.sny1411.plugin.StopPunchingTrees",
-    "IncludesAssetPack": true
+    "IncludesAssetPack": ${includes_pack}
 }
