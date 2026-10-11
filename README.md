@@ -10,7 +10,7 @@ stone, ores or any other kind of block.
 
 | Plugin | Hytale server |
 |--------|---------------|
-| 1.1.0  | 0.6.8 (Update 6) and later, also compiles against the 0.7.0 pre-releases |
+| 1.1.x  | 0.6.8 (Update 6) and later, also compiles against the 0.7.0 pre-releases |
 | 1.0    | Built for servers before Update 6 |
 
 ## Installation
