@@ -22,7 +22,7 @@ stone, ores or any other kind of block.
 ## Configuration
 
 On first start the plugin writes
-`mods/StopPunchingTrees_StopPunchingTrees/config.json`:
+`mods/sny1411_StopPunchingTrees/config.json`:
 
 ```json
 {
