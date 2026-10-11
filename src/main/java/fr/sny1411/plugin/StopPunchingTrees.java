@@ -26,6 +26,6 @@ public class StopPunchingTrees extends JavaPlugin {
 
     private void initMessage() {
         var manifest = this.getManifest();
-        LOGGER.atInfo().log("[{}] Plugin version {} loaded.", manifest.getName(), manifest.getVersion().toString());
+        LOGGER.atInfo().log("[%s] Plugin version %s loaded.", manifest.getName(), manifest.getVersion());
     }
 }
