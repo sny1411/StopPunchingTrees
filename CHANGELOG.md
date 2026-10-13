@@ -1,5 +1,10 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+- Built against the Hytale server 0.7.0. Still works on 0.6.8.
+
 ## 1.1.1 - 2026-10-11
 
 ### Changed
