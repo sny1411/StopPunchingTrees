@@ -1,6 +1,14 @@
 # Changelog
 
-## Unreleased
+## 1.2.0-pre.1 - 2026-10-22
+
+Requires a Hytale server 0.8 (Update 8). Built against the 0.8.0-pre.2
+pre-release; for 0.6.8 to 0.7.x, use the 1.1.x versions.
+
+### Changed
+- Built against the Hytale server 0.8.0-pre.2. No change in behavior.
+
+## Unreleased (1.1.x)
 
 ### Changed
 - Built against the Hytale server 0.7.3. The 0.7.0 server is no longer on the
