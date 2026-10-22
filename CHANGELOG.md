@@ -1,6 +1,9 @@
 # Changelog
 
-## Unreleased
+## 1.1.3 - 2026-10-22
+
+Requires a Hytale server 0.6.8 (Update 6) to 0.7.x (Update 7). For 0.8, use
+the 1.2.x versions.
 
 ### Changed
 - Built against the Hytale server 0.7.3. The 0.7.0 server is no longer on the
