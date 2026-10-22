@@ -1,6 +1,14 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+- Built against the Hytale server 0.7.3. The 0.7.0 server is no longer on the
+  Hytale Maven repository, so the build failed on a clean machine.
+
 ## 1.1.2 - 2026-10-13
+
+Requires a Hytale server 0.6.8 (Update 6) or later, including 0.7.0.
 
 ### Changed
 - Built against the Hytale server 0.7.0. Still works on 0.6.8.
